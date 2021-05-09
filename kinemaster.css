@@ -1,0 +1,79 @@
+.bodyy {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+.title {
+    color: red;
+    background-color: white;
+    margin-top: 2rem;
+ text-align: center;
+ font-family: first-regular;
+ font-size: 2rem;
+ border: 2px;
+ border-style: solid;
+ border-color: red;
+}
+
+.kimg {
+    height: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    text-align: center;
+}
+
+.intro-1 {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    font-family: first-medium;
+}
+
+.mainb {
+    background-color: lightgrey;
+    border: 5px;
+    border-style: solid;
+    border-color: lightgrey;
+    width: 800px;
+}
+
+.ul-1 {
+    list-style: square;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+.btn-lg {
+    font-size: 1.5rem;
+}
+
+td {
+    border-bottom: 2px;
+    border-right: 2px;
+    border-style: solid;
+    border-color: linen;
+    font-size: 1.5rem;
+}
+
+.adin {
+    color: red;
+}
+
+
+.ss-1 {
+    height: 500px;
+    width: 100%;
+}
+
+@font-face {
+    font-family: first-regular;
+    src: url(Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: first-medium;
+    src: url(Montserrat-Medium.ttf);
+}
